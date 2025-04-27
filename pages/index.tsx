@@ -141,24 +141,31 @@ export default function JobForcePage() {
   };
 
 
-  const handleSaveConfig = () => {
-    // Create config object with numbered keys
+  const handleSaveConfig = async () => {
     const config = selectedJobs.reduce((acc, job, index) => {
       acc[index + 1] = job;
       return acc;
     }, {} as { [key: number]: string });
 
-    // Create and download config.json file
-    const blob = new Blob([JSON.stringify(config, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'config.json';
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
-    window.location.href = '/basic_info';
+    try {
+      const response = await fetch('/api/save-config', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(config),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to save config');
+      }
+
+      // 如果保存成功，继续跳转
+      window.location.href = '/basic_info';
+    } catch (error) {
+      console.error('Error saving config:', error);
+      // 这里可以添加错误提示
+    }
   };
 
   // 将已选择的岗位分组为每组3个

@@ -32,11 +32,11 @@ export default function EducationPage() {
     setEducations(newEducations);
   };
 
-  const handleNext = () => {
-    // Save education data to localStorage
+  const handleNext = async () => {
+    // 保存教育数据到localStorage
     localStorage.setItem('education', JSON.stringify(educations));
 
-    // Collect all data from localStorage
+    // 收集所有数据
     const allData = {
       selectedJobs: JSON.parse(localStorage.getItem('selectedJobs') || '[]'),
       skills: JSON.parse(localStorage.getItem('skills') || '[]'),
@@ -45,20 +45,28 @@ export default function EducationPage() {
       education: educations
     };
 
-    // Create and download JSON file
-    const dataStr = JSON.stringify(allData, null, 2);
-    const dataBlob = new Blob([dataStr], { type: 'application/json' });
-    const url = URL.createObjectURL(dataBlob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'resume-data.json';
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
+    try {
+      // 发送数据到后端API
+      const response = await fetch('/api/save-resume-data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(allData),
+      });
 
-    // Optional: Clear localStorage after download
-    // localStorage.clear();
+      if (!response.ok) {
+        throw new Error('Failed to save resume data');
+      }
+
+      // 保存成功后只提示成功，不进行导航
+      alert('Resume data saved successfully');
+      
+    } catch (error) {
+      console.error('Error saving resume data:', error);
+      // 这里可以添加错误提示
+      alert('Failed to save resume data');
+    }
   };
 
   const addEducation = () => {
