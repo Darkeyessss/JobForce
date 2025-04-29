@@ -1,0 +1,40 @@
+[
+  {
+    "Education_1": "Shanghai University — B.Sc. in Statistics, Sep 2019 – Jun 2023",
+    "Education_2": "Relevant Coursework: Data Mining, Probability & Statistics, Machine Learning, SQL for Data Science",
+    "Internship_1": "Product Management Intern at ABC Corp, assisted in defining product roadmaps for SaaS products.",
+    "Internship_2": "Worked with cross-functional teams to launch new features increasing user engagement by 15%.",
+    "Skills_1": "Agile Methodology, Jira, Figma, Product Analytics",
+    "Project_1": "Led a campus app redesign project, improving user retention by 20%.",
+    "Activity_1": "Vice President of University Product Management Club, organized 5+ workshops."
+  },
+  {
+    "Education_1": "Tsinghua University — B.Eng. in Computer Science, Sep 2018 – Jun 2022",
+    "Internship_1": "Backend Developer Intern at DEF Inc., built scalable APIs using Django and PostgreSQL.",
+    "Internship_2": "Optimized database queries, improving backend response time by 30%.",
+    "Skills_1": "Python, Django, FastAPI, AWS, GCP, Docker, Kubernetes",
+    "Project_1": "Designed a microservices architecture for a real-time messaging app used by 10,000+ users.",
+    "Project_2": "Contributed to open-source projects on GitHub with 500+ stars."
+  },
+  {
+    "Education_1": "Peking University — M.S. in Data Science, Sep 2020 – Jun 2022",
+    "Internship_1": "Data Scientist Intern at XYZ Tech, developed predictive models for customer churn.",
+    "Skills_1": "Python, SQL, Machine Learning, scikit-learn, TensorFlow, Pandas",
+    "Project_1": "Built a recommenda  tion system achieving 12% lift in click-through rate.",
+    "Project_2": "Analyzed large-scale transaction data to uncover business insights."
+  },
+  {
+    "Education_1": "University of Southern California — B.A. in Communications, Sep 2017 – May 2021",
+    "Internship_1": "Content Marketing Intern at GHI Agency, created SEO-optimized blog posts increasing traffic by 25%.",
+    "Skills_1": "Content Strategy, SEO, WordPress, Google Analytics",
+    "Project_1": "Led a rebranding campaign across social media, achieving 40% growth in followers.",
+    "Activity_1": "Editor-in-Chief of University Online Magazine."
+  },
+  {
+    "Education_1": "University of Melbourne — B.Com. in Finance, Mar 2018 – Dec 2021",
+    "Internship_1": "Financial Analyst Intern at JKL Capital, built financial models for investment analysis.",
+    "Skills_1": "Excel, Financial Modeling, Budgeting, Forecasting, SQL",
+    "Project_1": "Prepared quarterly financial statements leading to successful Series B fundraising.",
+    "Activity_1": "Treasurer of Finance Student Association, managed $50,000+ budget."
+  }
+]

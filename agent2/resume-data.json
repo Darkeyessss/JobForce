@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "name": "Mingxi Tan",
+    "phone": "+86 138 0000 0000",
+    "email": "tan.mingxi@example.com",
+    "location": "Shanghai, China",
+    "interest": "Data Science, Machine Learning, Big Data",
+    "website": "https://mingxi-portfolio.com"
+  },
+  "skills": [
+    "Python",
+    "R",
+    "SQL",
+    "TensorFlow",
+    "PyTorch",
+    "Data Visualization (Tableau, PowerBI)",
+    "Big Data (Spark, Hadoop)",
+    "Statistics",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "workExperience": [
+    {
+      "projectName": "Customer Behavior Prediction Project",
+      "city": "Beijing",
+      "position": "Data Analyst Intern",
+      "department": "Data Science Department",
+      "startDate": "2022-06",
+      "endDate": "2022-12",
+      "description": "Built predictive models to analyze customer behavior patterns using logistic regression and decision trees. Improved prediction accuracy by 15% compared to previous benchmarks. Designed interactive dashboards to visualize customer segmentation for marketing teams."
+    },
+    {
+      "projectName": "AI-based Financial Risk Detection",
+      "city": "Shanghai",
+      "position": "Machine Learning Intern",
+      "department": "Risk Management",
+      "startDate": "2023-01",
+      "endDate": "2023-08",
+      "description": "Developed an anomaly detection model using unsupervised learning to identify financial fraud, leading to a 10% decrease in undetected risk cases. Collaborated with engineers to deploy the model into the company's internal risk control platform."
+    }
+  ],
+  "projectExperience": [
+    {
+      "projectName": "Real-Time Traffic Flow Prediction",
+      "city": "Remote",
+      "position": "Project Leader",
+      "department": "Personal Research",
+      "startDate": "2021-09",
+      "endDate": "2022-02",
+      "description": "Led a team of 3 to develop a real-time traffic forecasting system based on LSTM networks, achieving a 20% lower mean absolute error compared to baseline methods. Integrated the model with a front-end visualization using Plotly Dash."
+    },
+    {
+      "projectName": "E-commerce Product Recommendation System",
+      "city": "Shanghai",
+      "position": "Developer",
+      "department": "School Project",
+      "startDate": "2022-03",
+      "endDate": "2022-06",
+      "description": "Built a recommendation engine using collaborative filtering and content-based filtering for an online retail dataset. Achieved a Top-5 recommendation accuracy of 78% during offline evaluation."
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Shanghai Jiao Tong University",
+      "city": "Shanghai",
+      "degree": "Bachelor of Science",
+      "major": "Data Science and Big Data Technology",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "description": "Relevant coursework: Machine Learning, Deep Learning, Data Mining, Big Data Systems, Probability and Statistics. GPA: 3.8/4.0. Led the university's Data Science Club and organized several data hackathons."
+    },
+    {
+      "schoolName": "University of California, Berkeley",
+      "city": "Berkeley, CA",
+      "degree": "Exchange Program",
+      "major": "Computer Science and Statistics",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "description": "Completed advanced courses in Artificial Intelligence, Data Structures, and Statistical Learning. Participated in UC Berkeley's Data Science Society projects."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "skills": [
+    "python",
+    "R"
+  ],
+  "workExperience": [
+    {
+      "projectName": "ten",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "projectName": "ber",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "projectName": "beautiful",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "projectExperience": [
+    {
+      "projectName": "cs294",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "projectName": "llm agent",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "berkeley",
+      "city": "",
+      "degree": "",
+      "major": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    },
+    {
+      "schoolName": "huashi",
+      "city": "",
+      "degree": "",
+      "major": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ]
+}
