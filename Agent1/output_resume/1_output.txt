@@ -1,0 +1,59 @@
+---
+
+## Education  
+**Shanghai University** — *B.Sc. in Statistics*  
+*Sep 2019 – Jun 2023*  
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering Principles, Machine Learning, SQL for Data Science  
+
+---
+
+## Internship  
+**Data Analyst Intern** – ABC Technology Co., Ltd.  
+*Jul 2022 – Dec 2022*  
+- Conducted customer segmentation analysis using K-Means and PCA on user behavior data  
+- Built dashboards in Tableau to visualize key performance indicators (KPIs), aiding decision-making  
+- Automated weekly report generation with Python and SQL, saving 5+ hours per week  
+- Collaborated closely with cross-functional teams to deliver actionable insights and optimize marketing strategies  
+
+**Technical Consultant Intern** – DEF Solutions  
+*Jan 2022 – Jun 2022*  
+- Provided technical consulting services in the retail sector, analyzing data to optimize business operations  
+- Designed data-driven solutions to improve customer retention and enhance product recommendations  
+- Collaborated with clients to understand technical requirements and deliver tailored solutions  
+- Conducted market research and presented findings to senior consultants to refine project strategies  
+
+**Product Manager Intern** – GHI Technologies  
+*Jun 2021 – Dec 2021*  
+- Assisted in product lifecycle management, from ideation to launch, for a new mobile app  
+- Worked with cross-functional teams to define product requirements and prioritize features  
+- Conducted user research to gather feedback and iterated on features based on user needs  
+- Led the development of product documentation and helped coordinate product launch activities  
+- Monitored product performance post-launch and suggested enhancements for future versions  
+
+---
+
+## Software Development  
+**Software Developer Intern** – XYZ Solutions  
+*Jun 2021 – Sep 2021*  
+- Developed and maintained software applications using Python and JavaScript  
+- Collaborated with cross-functional teams to design, develop, and deliver high-quality solutions  
+- Implemented and optimized algorithms to improve application performance  
+- Contributed to code reviews, debugging, and testing to ensure code quality  
+
+---
+
+## Skills  
+- **Programming**: Python, Java, JavaScript, R, SQL  
+- **Software Development**: Full-Stack Development, Web Development, API Design  
+- **Data Analysis**: Pandas, NumPy, Scikit-learn, Statsmodels, SQL  
+- **Data Mining**: K-Means, PCA, ARIMA, Clustering  
+- **Tools**: Tableau, Power BI, Excel, Jupyter, Git, VSCode  
+- **Concepts**: Machine Learning, A/B Testing, Hypothesis Testing, Linear Regression, Time Series Analysis, Agile Methodology  
+
+---
+
+## Projects & Activities  
+
+**Market Analysis for E-Commerce Platform**  
+- Led a team of 4 to analyze customer behavior and sales trends for an e-commerce platform  
+- Identified key factors driving sales performance and proposed strategies to opt

@@ -1,0 +1,76 @@
+{
+  "skills": [
+    "Python",
+    "R",
+    "JavaScript",
+    "SQL",
+    "Data Analysis",
+    "Machine Learning",
+    "Market Research",
+    "Product Strategy",
+    "Roadmapping",
+    "Cross-functional Collaboration",
+    "Communication Skills",
+    "Problem-solving"
+  ],
+  "workExperience": [
+    {
+      "projectName": "ABC Technology Data Analysis",
+      "city": "Shanghai",
+      "position": "Data Analyst Intern",
+      "department": "Business Intelligence",
+      "startDate": "2022-07",
+      "endDate": "2022-12",
+      "description": "Utilized Python and SQL for customer segmentation analysis using K-Means and PCA. Automating weekly reporting and developing Tableau dashboards to support marketing strategies."
+    },
+    {
+      "projectName": "DEF Solutions Technical Consulting",
+      "city": "Shanghai",
+      "position": "Technical Consultant Intern",
+      "department": "Consulting Services",
+      "startDate": "2022-01",
+      "endDate": "2022-06",
+      "description": "Analyzed business data for retail clients to optimize operations. Designed data-driven solutions and provided actionable insights for client projects."
+    },
+    {
+      "projectName": "GHI Technologies Product Management",
+      "city": "Shanghai",
+      "position": "Product Manager Intern",
+      "department": "Product Development",
+      "startDate": "2021-06",
+      "endDate": "2021-12",
+      "description": "Contributed to the product lifecycle management for a mobile app, including gathering user feedback, defining requirements, and coordinating development and launch activities."
+    }
+  ],
+  "projectExperience": [
+    {
+      "projectName": "E-Commerce Market Analysis Project",
+      "city": "Shanghai",
+      "position": "Project Leader",
+      "department": "Data Science Club",
+      "startDate": "2022-10",
+      "endDate": "2022-12",
+      "description": "Led a team in analyzing customer behavior and sales trends, identifying key sales drivers, and proposing optimization strategies for an e-commerce platform."
+    },
+    {
+      "projectName": "Personal Finance App Development",
+      "city": "Shanghai",
+      "position": "Software Developer",
+      "department": "Independent Project",
+      "startDate": "2021-08",
+      "endDate": "2021-10",
+      "description": "Developed a personal finance app integrating real-time stock data APIs and budgeting tools, focusing on enhancing UI/UX for improved user engagement."
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "Shanghai University",
+      "city": "Shanghai",
+      "degree": "Bachelor of Science",
+      "major": "Statistics",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "description": "Coursework covered Data Structures, Algorithms, Machine Learning, SQL for Data Science, and Software Engineering Principles."
+    }
+  ]
+}

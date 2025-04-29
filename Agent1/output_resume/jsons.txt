@@ -1,0 +1,87 @@
+---
+## Basic Info
+Alex Chen  
+Location: Shanghai, China  
+Email: alex.chen@example.com | Phone: +86 138 0000 0000  
+GitHub: [github.com/alexchen](https://github.com/alexchen) | LinkedIn: [linkedin.com/in/alexchen](https://linkedin.com/in/alexchen)
+
+---
+
+## Education
+
+**Shanghai University** — *B.Sc. in Statistics*  
+*Sep 2019 – Jun 2023*  
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering Principles, Machine Learning, SQL for Data Science
+
+---
+
+## Internship
+
+**Data Analyst Intern** – ABC Technology Co., Ltd.  
+*Jul 2022 – Dec 2022*  
+- Planned and executed customer segmentation analysis using K-Means and PCA on user behavior data, ensuring project completion according to stakeholder needs.  
+- Developed dashboards in Tableau to oversee key performance indicators (KPIs), enhancing decision-making processes.  
+- Automated weekly reports with Python and SQL, improving resource efficiency and saving over 5 hours per week.
+- Collaborated with cross-functional teams to deliver actionable insights, ensuring satisfaction among stakeholders and optimizing marketing strategies.
+
+**Technical Consultant Intern** – DEF Solutions  
+*Jan 2022 – Jun 2022*  
+- Managed technical consulting projects for clients in the retail sector, analyzing data to enhance business operations and drive stakeholder satisfaction.  
+- Designed data-driven solutions to improve customer retention and optimize product recommendations.  
+- Collaborated directly with clients to ascertain technical requirements and deliver tailored project outcomes.  
+- Conducted market research and presented findings, influencing project strategies for efficiency.
+
+**Product Manager Intern** – GHI Technologies  
+*Jun 2021 – Dec 2021*  
+- Oversaw product lifecycle management from initiation to launch for a new mobile app, ensuring project timelines and deliverables were met.  
+- Coordinated cross-functional collaboration to define product requirements, prioritize features, and manage stakeholder feedback.  
+- Conducted user research to align feature development with user needs, leading to increased stakeholder satisfaction.  
+- Led the creation of product documentation and coordinated launch activities to ensure successful project execution.  
+- Monitored post-launch product performance, recommending enhancements based on project learnings.
+
+---
+
+## Software Development
+
+**Software Developer Intern** – XYZ Solutions  
+*Jun 2021 – Sep 2021*  
+- Developed and maintained software applications using Python and JavaScript, aligning project development with defined goals.  
+- Collaborated with teams to design, develop, and deliver high-quality solutions, contributing to project timelines and resource management.  
+- Implemented and optimized algorithms to enhance application performance, ensuring project efficiency.  
+- Participated in code reviews and testing to maintain high standards of project quality.
+
+---
+
+## Skills
+
+- **Languages**: Python, Java, JavaScript, R, SQL
+- **Software Development**: Full-Stack Development, Web Development, API Design
+- **Data Analysis**: Pandas, NumPy, Scikit-learn, Statsmodels, SQL
+- **Data Mining**: K-Means, PCA, ARIMA, Clustering
+- **Tools**: Tableau, Power BI, Excel, Jupyter, Git, VSCode
+- **Concepts**: Machine Learning, A/B Testing, Hypothesis Testing, Linear Regression, Time Series Analysis, Agile Methodology
+
+---
+
+## Projects & Activities
+
+**Market Analysis for E-Commerce Platform**  
+- Led a team of 4 in analyzing customer behavior and sales trends for an e-commerce platform, successfully managing project deliverables.  
+- Identified key factors driving sales performance and proposed data-driven strategies, influencing product strategy decisions.
+
+**Software Development for Personal Finance App**  
+- Planned and executed the development of a personal finance management app using JavaScript, HTML, and CSS.  
+- Integrated APIs for real-time stock data and budgeting tools, enhancing user experience.
+
+**Sales Forecasting Using Time Series**  
+- Built an ARIMA model for a retail client to forecast product sales, achieving 9% MAPE on test data and providing actionable inventory recommendations.
+
+**University Data Hackathon – 2nd Place**  
+- Analyzed open government datasets to identify trends in urban transportation, proposing data-driven policies.
+
+**Data Mining Academic Paper**  
+- Co-authored a paper on data mining techniques for customer segmentation, presenting findings at the International Conference on Data Science.
+
+**Student Data Science Club – Member**  
+- Engaged in workshops on data visualization and machine learning, enhancing collaborative project skills.
+---

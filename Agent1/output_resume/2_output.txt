@@ -1,0 +1,60 @@
+## Basic Info  
+Alex Chen  
+Location: Shanghai, China | Email: alex.chen@example.com | Phone: +86 138 0000 0000 | GitHub: [github.com/alexchen](https://github.com/alexchen) | LinkedIn: [linkedin.com/in/alexchen](https://linkedin.com/in/alexchen)
+
+---
+
+## Education  
+**B.Sc. in Statistics**  
+*Shanghai University* | *Sep 2019 – Jun 2023*  
+- Data Structures, Algorithms, Software Engineering Principles, Machine Learning, SQL for Data Science  
+
+---
+
+## Internship  
+
+**Product Manager Intern**  
+*GHI Technologies* | *Jun 2021 – Dec 2021*  
+- Assisted in product lifecycle management from ideation to launch for a new mobile app. Led cross-functional teams to define and prioritize product requirements, conducted user research, and iterated on features based on feedback. Coordinated product documentation and launch activities, ensuring alignment with strategic goals.
+
+**Data Analyst Intern**  
+*ABC Technology Co., Ltd.* | *Jul 2022 – Dec 2022*  
+- Conducted customer segmentation analysis using K-Means and PCA, delivering actionable insights for marketing strategies. Built dashboards in Tableau and automated weekly reports with Python and SQL, enhancing efficiency by 5+ hours per week.
+
+**Technical Consultant Intern**  
+*DEF Solutions* | *Jan 2022 – Jun 2022*  
+- Provided technical consulting to retail clients, designing data-driven solutions for customer retention and product recommendations. Conducted market research and collaborated with teams to improve business strategies.
+
+---
+
+## Software Development  
+
+**Software Developer Intern**  
+*XYZ Solutions* | *Jun 2021 – Sep 2021*  
+- Developed full-stack applications using Python and JavaScript. Collaborated on design, development, and delivery of high-quality solutions. Implemented algorithms for performance optimization and contributed to code reviews and testing processes.
+
+---
+
+## Skills  
+
+- **Programming**: Python, Java, JavaScript, R, SQL  
+- **Data Analysis & Mining**: Pandas, NumPy, Scikit-learn, Statsmodels, ARIMA, Clustering (K-Means, PCA)  
+- **Tools & Platforms**: Tableau, Power BI, Jupyter, Git, VSCode  
+- **Concepts**: Machine Learning, A/B Testing, Hypothesis Testing, Linear Regression, Time Series Analysis, Agile Methodology  
+
+---
+
+## Projects & Activities  
+
+**Market Analysis for E-Commerce Platform**  
+- Led a team of 4 to analyze customer behavior and sales trends, identifying key factors driving performance. Proposed strategies that influenced product strategy decisions.
+
+**Sales Forecasting Using Time Series**  
+- Built an ARIMA model achieving 9% MAPE on test data, providing actionable inventory recommendations for a retail client.
+
+**Data Mining Academic Paper**  
+- Co-authored a paper on customer segmentation in retail using K-Means clustering and PCA, presented at the International Conference on Data Science.
+
+---
+
+This revised resume aligns closely with the job description

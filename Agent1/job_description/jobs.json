@@ -1,0 +1,16 @@
+{
+  "job_position": {
+    "1": "data analyst",
+    "2": "product manager",
+    "3": "software engineer",
+    "4": "teacher",
+    "5": "project manager"
+  },
+  "job_description": {
+    "1": "Responsible for collecting, analyzing, and interpreting large datasets to support business decisions. Proficient in SQL, Python, and data visualization tools like Tableau or Power BI. Strong analytical thinking and attention to detail required.",
+    "2": "Lead cross-functional teams to define product vision, strategy, and roadmap. Conduct market research, gather user requirements, and work closely with engineering, design, and marketing teams to deliver impactful products. Strong communication and problem-solving skills essential.",
+    "3": "Design, develop, and maintain software applications across the full stack. Collaborate with cross-functional teams to deliver high-quality solutions. Proficient in languages such as Python, Java, or JavaScript. Solid understanding of data structures, algorithms, and software engineering principles.",
+    "4": "Deliver engaging lessons and create a positive learning environment for students. Develop curriculum, assess student performance, and adapt teaching methods to meet diverse needs. Strong classroom management and communication skills are critical.",
+    "5": "Plan, execute, and oversee projects from initiation to completion. Manage timelines, budgets, and resources while ensuring stakeholder satisfaction. Strong leadership, organizational, and risk management skills are required."
+  }
+}

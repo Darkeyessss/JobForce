@@ -1,0 +1,66 @@
+## **Basic Info**
+
+Alex Chen  
+Location: Shanghai, China  
+Email: alex.chen@example.com | Phone: +86 138 0000 0000  
+GitHub: [github.com/alexchen](https://github.com/alexchen) | LinkedIn: [linkedin.com/in/alexchen](https://linkedin.com/in/alexchen)
+
+---
+
+## **Education**
+
+**Shanghai University** – *B.Sc. in Statistics*  
+*Sep 2019 – Jun 2023*  
+- Relevant Coursework: Data Structures, Algorithms, Software Engineering Principles, Machine Learning, SQL for Data Science
+
+---
+
+## **Skills**
+
+- **Programming**: Python, Java, JavaScript, R, SQL  
+- **Data Analysis & Mining**: Pandas, NumPy, Scikit-learn, Statsmodels, SQL, K-Means, PCA, ARIMA, Clustering  
+- **Tools & Platforms**: Tableau, Power BI, Excel, Jupyter, Git, VSCode, Agile Methodology  
+
+---
+
+## **Internship**
+
+**Data Analyst Intern** – ABC Technology Co., Ltd.  
+*Jul 2022 – Dec 2022*  
+- Conducted customer segmentation analysis using K-Means and PCA on user behavior data to optimize marketing strategies.  
+- Built dashboards in Tableau for key performance indicators (KPIs) aiding decision-making.  
+- Automated weekly reports with Python and SQL, saving 5+ hours per week.
+
+**Technical Consultant Intern** – DEF Solutions  
+*Jan 2022 – Jun 2022*  
+- Provided technical consulting services in the retail sector, analyzing data to optimize business operations.  
+- Designed data-driven solutions for customer retention and product recommendations.
+
+**Product Manager Intern** – GHI Technologies  
+*Jun 2021 – Dec 2021*  
+- Assisted in managing the product lifecycle from ideation to launch for a new mobile app.  
+- Collaborated with cross-functional teams to define product requirements and prioritize features.  
+
+---
+
+## **Projects & Activities**
+
+**Market Analysis for E-Commerce Platform**  
+- Led a team of 4 to analyze customer behavior and sales trends, identifying key factors and optimizing product listings.  
+- Presented findings and recommendations influencing product strategy decisions.
+
+**Software Development for Personal Finance App**  
+- Developed a finance management app using JavaScript, HTML, CSS, and APIs for real-time data integration.
+
+**Sales Forecasting Using Time Series**  
+- Built an ARIMA model forecasting sales over 12 months with a 9% MAPE on test data.
+
+**University Data Hackathon – 2nd Place**  
+- Analyzed open datasets to propose policies on urban transportation trends.
+
+**Data Mining Academic Paper**  
+- Co-authored a paper on customer segmentation in retail using K-Means clustering and PCA, presented at an international conference.
+
+**Student Data Science Club – Member**  
+- Collaborated on Kaggle projects, enhancing technical skills through weekly workshops.
+
