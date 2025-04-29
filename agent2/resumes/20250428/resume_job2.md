@@ -1,6 +1,0 @@
-# Your Name – Resume
-
-• Customer Behavior Prediction Project – Data Analyst Intern – Data Science Department – Beijing – Built predictive models to analyze customer behavior patterns using logistic regression and decision trees. Improved prediction accuracy by 15% compared to previous benchmarks. Designed interactive dashboards to visualize customer segmentation for marketing teams.
-• Real-Time Traffic Flow Prediction – Project Leader – Personal Research – Remote – Led a team of 3 to develop a real-time traffic forecasting system based on LSTM networks, achieving a 20% lower mean absolute error compared to baseline methods. Integrated the model with a front-end visualization using Plotly Dash.
-• AI-based Financial Risk Detection – Machine Learning Intern – Risk Management – Shanghai – Developed an anomaly detection model using unsupervised learning to identify financial fraud, leading to a 10% decrease in undetected risk cases. Collaborated with engineers to deploy the model into the company's internal risk control platform.
-• E-commerce Product Recommendation System – Developer – School Project – Shanghai – Built a recommendation engine using collaborative filtering and content-based filtering for an online retail dataset. Achieved a Top-5 recommendation accuracy of 78% during offline evaluation.
