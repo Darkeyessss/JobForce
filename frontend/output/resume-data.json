@@ -1,0 +1,44 @@
+{
+  "basicInfo": {
+    "name": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "interest": "",
+    "website": ""
+  },
+  "skills": [],
+  "workExperience": [
+    {
+      "projectName": "",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "projectExperience": [
+    {
+      "projectName": "",
+      "city": "",
+      "position": "",
+      "department": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "",
+      "city": "",
+      "degree": "",
+      "major": "",
+      "startDate": "",
+      "endDate": "",
+      "description": ""
+    }
+  ]
+}
